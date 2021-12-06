@@ -1,1 +1,2 @@
-# ClusterizacaoMachineLearning
+# Análise de Dados Criminais
+Este foi um trabalho atribuído na disciplina de Machine Learning, atualmente lecionada pelo professor Adolfo Guimarães. Neste, fomos orientados a utilizar o conhecimento de clusterização aprendido em sala, para análise e conclusão de dados sobre os tipos de crimes que ocorreram no Brasil em um espaço de tempo. Os dados foram retirados do site do governo (http://dados.mj.gov.br/dataset/sistema-nacional-de-estatisticas-de-seguranca-publica), e foi-se utilizado para a técnica de clusterização, o algoritmo K-Means.
